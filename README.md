@@ -1,0 +1,2 @@
+# magento-2-blog-module
+The free blog module for Magento CMS
